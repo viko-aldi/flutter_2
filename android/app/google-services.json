@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977568860992",
+    "project_id": "mymovieapp-b0d60",
+    "storage_bucket": "mymovieapp-b0d60.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977568860992:android:d8ccc57e295fb548e248a5",
+        "android_client_info": {
+          "package_name": "com.viko.flutter_1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977568860992-tkb56fgtbmade0t1vaaneml7v69vs7bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCpBlduKkZaA7SW6VxxAMAxashUWP2dtGg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977568860992-tkb56fgtbmade0t1vaaneml7v69vs7bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
